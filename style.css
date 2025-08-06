@@ -106,3 +106,23 @@ html, body {
     margin-top: 20px;
     
 }
+.pricing1{
+    padding: 70px;
+}
+table{
+    background-color: #5536dd1d;
+    border-radius: 24px;
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+th{
+    background-color: #5536dd98;
+    padding: 24px;
+    color: white;
+    border-radius: 24px 24px 0 0;
+}
+td{
+    padding: 24px;
+    text-align: center;
+}
