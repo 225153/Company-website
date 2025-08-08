@@ -157,3 +157,21 @@ td{
     text-align: center;
     color: white;
 }
+
+@media only screen and (max-width: 600px) {
+    .about, .services {
+        flex-direction: column;
+        align-items: center;
+    }
+    .about-image, .about-content, .service-item {
+        width: 100%;
+        text-align: center;
+    }
+    .about-image > img {
+        width: 80%;
+    }
+    .btn {
+        width: 100%;
+        margin-top: 20px;
+    }
+}
