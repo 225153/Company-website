@@ -151,3 +151,9 @@ td{
   border-color: #4a90e2;
   box-shadow: 0 4px 12px rgba(74, 144, 226, 0.3);
 }
+.footer{
+    background-color: #170f49; 
+    padding: 12px;
+    text-align: center;
+    color: white;
+}
